@@ -1,0 +1,2 @@
+﻿
+In admin controller, added date is 12/25/2020 8:14:08 PM Bhagya@gmail.com has been registered sucessfully

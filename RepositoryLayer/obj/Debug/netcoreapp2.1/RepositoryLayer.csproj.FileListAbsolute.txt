@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\EmployeeWebAPI\RepositoryLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.deps.json
+C:\Users\USER\source\repos\EmployeeWebAPI\RepositoryLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.dll
+C:\Users\USER\source\repos\EmployeeWebAPI\RepositoryLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.pdb
+C:\Users\USER\source\repos\EmployeeWebAPI\RepositoryLayer\bin\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\USER\source\repos\EmployeeWebAPI\RepositoryLayer\bin\Debug\netcoreapp2.1\CommonLayer.pdb
+C:\Users\USER\source\repos\EmployeeWebAPI\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\EmployeeWebAPI\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EmployeeWebAPI\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\USER\source\repos\EmployeeWebAPI\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EmployeeWebAPI\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\USER\source\repos\EmployeeWebAPI\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.dll
+C:\Users\USER\source\repos\EmployeeWebAPI\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.pdb

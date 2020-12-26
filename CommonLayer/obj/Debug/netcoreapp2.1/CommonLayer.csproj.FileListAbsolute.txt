@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\EmployeeWebAPI\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.deps.json
+C:\Users\USER\source\repos\EmployeeWebAPI\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\USER\source\repos\EmployeeWebAPI\CommonLayer\bin\Debug\netcoreapp2.1\CommonLayer.pdb
+C:\Users\USER\source\repos\EmployeeWebAPI\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EmployeeWebAPI\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.AssemblyInfo.cs
+C:\Users\USER\source\repos\EmployeeWebAPI\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EmployeeWebAPI\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\USER\source\repos\EmployeeWebAPI\CommonLayer\obj\Debug\netcoreapp2.1\CommonLayer.pdb

@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.deps.json
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.pdb
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\bin\Debug\netcoreapp2.1\CommonLayer.dll
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.dll
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.pdb
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\bin\Debug\netcoreapp2.1\CommonLayer.pdb
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfo.cs
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CopyComplete
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\USER\source\repos\EmployeeWebAPI\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.pdb
